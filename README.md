@@ -1,39 +1,6 @@
-
- <style>
-     .boxes {
-         display: grid;
-          row-gap: 2rem;
-          margin: 4rem 0 3rem 0;
-    }
-
-.boxes .box {
-
-    --background: #275efe;
-    --rectangle: #184fee;
-    --success: #4672f1;
-    --text: #fff;
-    --arrow: #fff;
-    --checkmark: #fff;
-    --shadow: rgba(10, 22, 50, .24);
-    padding: 2rem;
-    transition: all 0.2s ease-in-out;
-    background: var(--background);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px -1px var(--shadow);
-    }
-
-    .boxes .box:hover {
-        transform: scale(1.05);
-}
-
-            .box.dark {
-          --background: #242836;
-        }
-</style>
-
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h2 align="center">One FullStack Developer from Brasil</h2>
-
+<br>
 
 - 🔭 I’m currently working on **Photographic editing.**
 
@@ -53,11 +20,9 @@
 
 - ⚡ Fun fact **I'm a Competitive Dancer, I'm an Urban Dance Teacher, I'm a Dad, I like Games, Writing and Editing.**
 
-<section class="boxes">
+<br>
 
 # 💻 Tech Stack
-
-<div class="box dark">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,11 +32,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-</div>
+<br>
 
 # Tech that I'm actually learning
-
-<div class="box dark">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![.Net](https://img.shields.io/badge/.NET-Unity-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -81,11 +44,9 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+<br>
 
 # Tech I've worked previously with?
-
-<div class="box dark">
 
 ![ADVPL](https://img.shields.io/badge/advpl-blue?style=for-the-badge&logo=totvs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -103,18 +64,17 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-</div>
-
-</section>
-
+<br>
 
 # 📊 GitHub Stats
+
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Eletric-Vortex&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eletric-Vortex&theme=nord&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eletric-Vortex&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   ------------------->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eletric-Vortex&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=Eletric-Vortex&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- 
